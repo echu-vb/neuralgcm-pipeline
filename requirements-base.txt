@@ -1,0 +1,8 @@
+numpy
+pandas
+xarray
+gcsfs
+scipy
+matplotlib
+streamlit
+neuralgcm
